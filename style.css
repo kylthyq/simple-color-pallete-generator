@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    height: 660px;
+}
+
+.colors{
+    display: flex;
+    width: 20%;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    top: 450px;
+    left: 630px;
+    position: fixed;
+}
